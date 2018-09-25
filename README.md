@@ -1,1 +1,1 @@
-# Maquina-de-dulces-con-struct
+# Maquina-de-dulces-con-struct c++
